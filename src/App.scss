@@ -1,0 +1,7 @@
+.main-content {
+  position: absolute;
+  background-color: var(--main-color);
+  width: 100vw;
+  height: 100vh;
+  transition: background-color 1s ease;
+}
